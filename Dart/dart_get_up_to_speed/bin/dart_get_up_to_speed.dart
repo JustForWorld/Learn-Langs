@@ -1,7 +1,9 @@
-import 'package:dart_get_up_to_speed/dart_get_up_to_speed.dart' as dart_get_up_to_speed;
+import 'lib.dart_get_up_to_speed.dart' as dart_get_up_to_speed;
+import 'dart:io';
 
 void main(List<String> arguments) {
-  String? example;
-  print(example?.length);
-
+  num a = num.parse(stdin.readLineSync().toString());
+  num b = num.parse(stdin.readLineSync().toString());
+  String? symbol = stdin.readLineSync();
+  print(dart_get_up_to_speed.calculation(a, b, symbol));
 }
