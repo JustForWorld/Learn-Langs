@@ -1,3 +1,5 @@
+import 'dart:math';
+
 dynamic calculation(num a, num b, String? sign) {
   switch (sign) {
     case '+':
@@ -12,6 +14,8 @@ dynamic calculation(num a, num b, String? sign) {
       } else {
         return 'Division by zero!';
       }
+    case '^':
+      return pow(a, b);
     default:
       return 'Unknown operation!';
   }
