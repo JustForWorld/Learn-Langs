@@ -16,6 +16,8 @@ dynamic calculation(num a, num b, String? sign) {
       }
     case '^':
       return pow(a, b);
+    case 'log':
+      return [log(a), log(b)];
     default:
       return 'Unknown operation!';
   }
