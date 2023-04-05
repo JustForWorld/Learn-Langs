@@ -20,6 +20,8 @@ dynamic calculation(num a, num b, String? sign) {
       return [log(a), log(b)];
     case 'mod':
       return a ~/ b;
+    case 'sqrt':
+      return pow(a, 0.5);
     default:
       return 'Unknown operation!';
   }
