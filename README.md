@@ -5,4 +5,4 @@ Curriculum:
 - **Dart** language for mobile development and further study of the framework **Flutter** - ❌
 - **Golang** backend server development language - ❌
 - **SystemVerilog** and **VHDL** - ❌
-- **C** - ❌
+- **C** for reverse engineering - ❌
