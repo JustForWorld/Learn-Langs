@@ -6,3 +6,4 @@ Curriculum:
 - **Golang** backend server development language - ❌
 - **SystemVerilog** and **VHDL** - ❌
 - **C** for reverse engineering - ❌
+- **Hasckell** as the first functional language - ❌
