@@ -16,3 +16,6 @@ Assembler:
 
 Blockchains and cryptocurrencies:
 - **Hasckell** as the first functional language - ❌
+
+Analysis:
+- **Python** for conducting analytics - ❌
