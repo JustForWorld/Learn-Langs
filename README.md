@@ -3,12 +3,14 @@
 
 Mobile:
 - **Dart** language for mobile development and further study of the framework **Flutter** - ❌
-  - [Основы программирования на Dart](https://stepik.org/course/109361/syllabus) - ❌
+  - [Основы программирования на Dart](https://stepik.org/course/109361/syllabus) - 49 %
   - Flutter & Dart - The Complete Guide [2023 Edition] - ❌
   - Building Your First 2D Game with Flutter and Flame - ❌
 
 Backend:
 - **Golang** backend server development language - ❌
+  - Ardanlabs `Ultimate Go` (2020) - ❌
+  - Ardanlabs `Ultimate Service 3.0` (2021) - ❌
 
 System:
 - **SystemVerilog** and **VHDL** - ❌
