@@ -27,3 +27,7 @@ Blockchains and cryptocurrencies:
 
 Analysis:
 - **Python** for conducting analytics - ❌
+
+DB:
+- **SQL** - ❌
+  - [simulator sql](https://karpov.courses/simulator-sql)
